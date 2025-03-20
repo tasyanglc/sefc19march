@@ -1,10 +1,11 @@
-.container {
+/*.container {
     border: 5px solid #ffcc5c;
     display: flex;
     justify-content: center;
-}
+}*/
 
 .container > div {
+    width: 100px;
     padding: 10px;
     text-align: center;
     font-size: 14sp;
