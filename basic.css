@@ -4,7 +4,7 @@
     justify-content: center;
 }*/
 
-.container > div {
+/*.container > div {
     width: 100px;
     padding: 10px;
     text-align: center;
@@ -14,3 +14,9 @@
     background-color: green;
     margin: 16px;
 }
+
+<nav class="container">
+            <div class="home">Home</div>
+            <div class="search">Search</div>
+            <div class="logoult">Logout</div>
+        </nav>
